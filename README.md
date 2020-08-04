@@ -7,3 +7,10 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 The series includes an associated repo: https://github.com/awjuliani/DeepRL-Agents   
 
 This repo is essentially a modified and heavily commented version of the repo above.   
+Note that these scripts use Tensorflow 1.x.   
+
+#### Files
+
+- The main scripts are titled "rl_xxx.py"   
+- All other files/scripts are supporting objects   
+
